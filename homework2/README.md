@@ -8,7 +8,8 @@
 >>max_features = ‘sqrt’ 
 >>subsample = 0.8
 ####
->調整參數[使用教學網址](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
+>[使用教學網址](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
+>調整後參數如下:
 >>{'n_estimators': 80}
 >>{'max_depth': 9, 'min_samples_split': 200}
 >>{'min_samples_leaf': 60, 'min_samples_split': 1200}
