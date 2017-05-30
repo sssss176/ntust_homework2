@@ -1,19 +1,20 @@
-## ²Ä¤G¦¸§@·~
+## ç¬¬äºŒæ¬¡ä½œæ¥­
 
 ####(1)Gradient Boosting
->³]©w©T©w°Ñ¼Æ
+>è¨­å®šå›ºå®šåƒæ•¸
 >>min_samples_split = 500?
 >>min_samples_leaf = 50 
 >>max_depth = 8 
->>max_features = ¡¥sqrt¡¦? 
->>subsample = 0.8? 
->½Õ¾ã°Ñ¼Æ[¨Ï¥Î±Ð¾Ç](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
+>>max_features = â€˜sqrtâ€™ 
+>>subsample = 0.8
+####
+>èª¿æ•´åƒæ•¸[ä½¿ç”¨æ•™å­¸](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
 >>{'n_estimators': 80}
 >>{'max_depth': 9, 'min_samples_split': 200}
 >>{'min_samples_leaf': 60, 'min_samples_split': 1200}
 >>{'max_features': 4}
 >>{'n_estimators': 80}
->>³Ì«á¨Ï¥Îcross_val_score­pºâ
+>>æœ€å¾Œä½¿ç”¨cross_val_scoreè¨ˆç®—
 
 
 
